@@ -1,4 +1,4 @@
-package singleton;
+import singleton.SingletonDemo;
 
 public class MainClass {
     public static void main(String[] args) {
@@ -7,7 +7,6 @@ public class MainClass {
         System.out.println(singletonDemo.getVal());
         singletonDemo.incrementVal();
         System.out.println(singletonDemo.getVal());
-
 
         SingletonDemo newObj = SingletonDemo.getInstance();
         newObj.getConnection();
@@ -20,5 +19,7 @@ public class MainClass {
         System.out.println(newObj1.getVal());
         newObj1.incrementVal();
         System.out.println(newObj1.getVal());
+
+
     }
 }
