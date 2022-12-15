@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="564d3574-3879-47f3-a558-7fbdc4d1d24a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/isp/CashBackManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/isp/GooglePay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/isp/PhonePay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/isp/UIPayement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/liscov/Instagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/liscov/PostMediaManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/liscov/Snapchat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/liscov/SocialMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/liscov/VideoMediaManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/ocp/EmailNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/ocp/MobileNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/ocp/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/srp/BankService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/srp/LoanService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidprinciple/srp/NotificationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/singleton/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/singleton/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/singleton/SingletonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/singleton/SingletonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/SingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/SingletonDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="564d3574-3879-47f3-a558-7fbdc4d1d24a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +71,7 @@
       <workItem from="1670883461119" duration="4349000" />
       <workItem from="1670952404923" duration="7720000" />
       <workItem from="1670978932110" duration="672000" />
-      <workItem from="1671124969624" duration="3009000" />
+      <workItem from="1671124969624" duration="3255000" />
     </task>
     <servers />
   </component>
