@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="564d3574-3879-47f3-a558-7fbdc4d1d24a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/streamapi/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/StreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/comparisonbasedstream/AntMatchers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/comparisonbasedstream/DistinctStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/comparisonbasedstream/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/infinitestream/GenerateStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/infinitestream/IterateStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/parallelstream/ParallelStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/primitivestream/EmpList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/primitivestream/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/primitivestream/IntStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/primitivestream/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/reductionoperation/FindAnyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/reductionoperation/FindFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamapi/reductionoperation/MainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-Practice" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -166,7 +152,7 @@
       <workItem from="1671729850966" duration="18667000" />
       <workItem from="1671992672121" duration="166000" />
       <workItem from="1672079092764" duration="4013000" />
-      <workItem from="1672096061277" duration="321000" />
+      <workItem from="1672096061277" duration="1772000" />
     </task>
     <servers />
   </component>
@@ -186,10 +172,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1671734368907" />
-    <state x="530" y="175" key="FileChooserDialogImpl" timestamp="1671556598746">
+    <state x="530" y="175" key="FileChooserDialogImpl" timestamp="1672098260265">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="530" y="175" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1671556598746" />
+    <state x="530" y="175" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1672098260265" />
     <state width="1323" height="120" key="GridCell.Tab.0.bottom" timestamp="1672083145067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
