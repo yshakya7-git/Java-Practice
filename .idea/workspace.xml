@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="564d3574-3879-47f3-a558-7fbdc4d1d24a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/streamapi/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/comparisonbasedstream/AntMatchers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/comparisonbasedstream/DistinctStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/comparisonbasedstream/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/infinitestream/GenerateStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/infinitestream/IterateStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/parallelstream/ParallelStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/primitivestream/EmpList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/primitivestream/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/primitivestream/IntStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/primitivestream/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/reductionoperation/FindAnyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/reductionoperation/FindFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamapi/reductionoperation/MainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/singleton/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/singleton/SingletonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/singleton/SingletonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciple/dip/DebitCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciple/dip/DebitCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solidprinciple/dip/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solidprinciple/dip/MainClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -44,12 +55,25 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.MainClass (1)">
-    <configuration name="MainClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solidprinciple.dip.MainClass" />
+    <configuration name="DistinctStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamapi.comparisonbasedstream.DistinctStream" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solidprinciple.dip.*" />
+          <option name="PATTERN" value="streamapi.comparisonbasedstream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamapi.reductionoperation.MainClass" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamapi.reductionoperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,11 +82,50 @@
       </method>
     </configuration>
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <option name="MAIN_CLASS_NAME" value="streamapi.primitivestream.MainClass" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="streamapi.primitivestream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamapi.primitivestream.MainClass" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamapi.primitivestream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamapi.comparisonbasedstream.MinMax" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamapi.comparisonbasedstream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamapi.parallelstream.ParallelStreamDemo" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamapi.parallelstream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,7 +136,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainClass (1)" />
+        <item itemvalue="Application.ParallelStreamDemo" />
         <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.MinMax" />
+        <item itemvalue="Application.DistinctStream" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +157,15 @@
       <workItem from="1670883461119" duration="4349000" />
       <workItem from="1670952404923" duration="7720000" />
       <workItem from="1670978932110" duration="672000" />
-      <workItem from="1671124969624" duration="4674000" />
+      <workItem from="1671124969624" duration="5109000" />
+      <workItem from="1671555313646" duration="1877000" />
+      <workItem from="1671579389550" duration="3174000" />
+      <workItem from="1671642030793" duration="806000" />
+      <workItem from="1671647297429" duration="725000" />
+      <workItem from="1671669893241" duration="341000" />
+      <workItem from="1671729850966" duration="18667000" />
+      <workItem from="1671992672121" duration="166000" />
+      <workItem from="1672079092764" duration="4013000" />
     </task>
     <servers />
   </component>
@@ -99,45 +173,73 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Plugins" timestamp="1670963472142">
+    <state x="275" y="22" key="#Plugins" timestamp="1671734343062">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1670963472142" />
+    <state x="275" y="22" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1671734343062" />
     <state x="0" y="45" key="#Project_Structure" timestamp="1670875337540">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="45" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1670875337540" />
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1671129191214">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1671734368907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1671129191214" />
-    <state width="1323" height="167" key="GridCell.Tab.0.bottom" timestamp="1671129789797">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1671734368907" />
+    <state x="530" y="175" key="FileChooserDialogImpl" timestamp="1671556598746">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1671129789797" />
-    <state width="1323" height="167" key="GridCell.Tab.0.center" timestamp="1671129789797">
+    <state x="530" y="175" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1671556598746" />
+    <state width="1323" height="120" key="GridCell.Tab.0.bottom" timestamp="1672083145067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1671129789797" />
-    <state width="1323" height="167" key="GridCell.Tab.0.left" timestamp="1671129789796">
+    <state width="1323" height="120" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1672083145067" />
+    <state width="1323" height="120" key="GridCell.Tab.0.center" timestamp="1672083145067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1671129789796" />
-    <state width="1323" height="167" key="GridCell.Tab.0.right" timestamp="1671129789797">
+    <state width="1323" height="120" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1672083145067" />
+    <state width="1323" height="120" key="GridCell.Tab.0.left" timestamp="1672083145067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1671129789797" />
+    <state width="1323" height="120" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1672083145067" />
+    <state width="1323" height="120" key="GridCell.Tab.0.right" timestamp="1672083145067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="120" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1672083145067" />
+    <state width="1323" height="11" key="GridCell.Tab.1.bottom" timestamp="1671753904022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="11" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1671753904022" />
+    <state width="1323" height="11" key="GridCell.Tab.1.center" timestamp="1671753904022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="11" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1671753904022" />
+    <state width="1323" height="11" key="GridCell.Tab.1.left" timestamp="1671753904022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="11" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1671753904022" />
+    <state width="1323" height="11" key="GridCell.Tab.1.right" timestamp="1671753904022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="11" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1671753904022" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1670958090470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1670958090470" />
-    <state x="380" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1671124969237">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1671647355199">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="380" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1671124969237" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1670963457913">
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1671647355199" />
+    <state x="380" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1671992819131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1670963457913" />
+    <state x="380" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1671992819131" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1671740983646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1671740983646" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1671734335734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1671734335734" />
   </component>
 </project>
