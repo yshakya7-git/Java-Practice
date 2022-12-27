@@ -1,3 +1,5 @@
 # Singleton-Practice
-This is Singleton Practice Project.
-Also implemented SOLID Principle.
+Singleton Practice Project.
+SOLID Principle.
+Stream API
+
